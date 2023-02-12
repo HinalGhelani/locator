@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "comname": "Tesla",
+    "ceoname": "Elon Musk",
+    "image": "assets/ceoImage/img_1.png",
+    "logo": "assets/logo/tesla.png",
+    "dec": "Tesla, Inc. is an American automative and clean energy company based in Austin, Taxas.\nTesla design and manufactures electic vehicles, battery energy storage from home to grid-scale, \nsolar panels and solar roof tiles, and related products and services.\n",
+    "lat": 30.222296,
+    "long": -97.617134
+  },
+  {
+    "id": 2,
+    "comname": "Tata Motors",
+    "ceoname": "Guenter Butschek",
+    "image": "assets/ceoImage/img2.webp",
+    "logo": "assets/logo/tata.png",
+    "dec": "Tata Motors is a leading global automobile manufacturing company. Its diverse portfolio \nincludes an extensive range of cars, sports utility vehicles, trucks, buses and defence vehicles. \nTata Motors is one of India s largest OEMs offering an extensive range of integrated ,smart and e-mobility solutions.\n",
+    "lat": 22.7685,
+    "long": 86.256
+  },
+  {
+    "id": 3,
+    "comname": "Apple",
+    "ceoname": "Team Cook",
+    "image": "assets/ceoImage/img3.jpeg",
+    "logo": "assets/logo/apple.png",
+    "dec": "Apple is a prominent hardware and software company best known for its series of personal \ncomputers, the iPod and its innovative marketing strategies for its product. Introduced in 1984, the\nMacintosh was the first widely sold personal computer with a graphical user interface(GUI).\n",
+    "lat": 37.3318,
+    "long": -122.0312
+  },
+  {
+    "id": 4,
+    "comname": "Google",
+    "ceoname": "Sundar Pichai",
+    "image": "assets/ceoImage/img4.jpg",
+    "logo": "assets/logo/Google.png",
+    "dec": "GOOGLE: Global Organization of Oriented Group Language of Earth. The main purpose of the \nSearch is to search for text in publicity accessible documents offered by web servers, as opposed\nto other data, such as images or data contained in databases. it was originally developed in 1997 by\n Larry Page, Sergey Brin, and Scott Hassan.\n",
+    "lat": 37.422131,
+    "long": -122.084801
+  },
+  {
+    "id": 5,
+    "comname": "Wipro",
+    "ceoname": "Thierry Delaporte",
+    "image": "assets/ceoImage/img5.jpg",
+    "logo": "assets/logo/Wipro.png",
+    "dec": "Wipro Limited is a market leading Information Technology consulting and business process \nservice company. Wipro utilizes the power of analytics, robotics, cloud and other emerging technologies\n to help clients spread across six different continents to adapt to the current digital \ntrend and help them thrive to success.\n",
+    "lat": 28.46385,
+    "long": 77.01783
+  },
+  {
+    "id": 6,
+    "comname": "Infosys",
+    "ceoname": "Salil Parekh",
+    "image": "assets/ceoImage/img6.jpg",
+    "logo": "assets/logo/Infosys.png",
+    "dec": "Infosys provides software development, maintenance and independent validation services \nto companies in finance, insurance, manufacturing and other domains. One of its known products is \nFinacle which is a universal banking solution with modules for retail and corporate banking.\n",
+    "lat": 28.46385,
+    "long": 77.01783
+  },
+  {
+    "id": 7,
+    "comname": "LG",
+    "ceoname": "William Cho",
+    "image": "assets/ceoImage/img7.jpeg",
+    "logo": "assets/logo/lg.png",
+    "dec": "LG Electronics was established in 1958 and has since led way into the advanced digital \nera thanks to the technolgical expertise acquired by manufacturing many home appliances such as radios\nand TVs.\n",
+    "lat": 18.7539,
+    "long": 74.2473
+  },
+  {
+    "id": 8,
+    "comname": "Facebook",
+    "ceoname": "Mark Zuckerberg",
+    "image": "assets/ceoImage/img8.jpg",
+    "logo": "assets/logo/Facebook.png",
+    "dec": "Facebook is a website which allows users, who sign-up for free profiles, to connect with\nfriend, work colleagues for people they do not know, online. it allows users to share pictures, music, \nvideos, and articles, as well as their own thoughts and opinions with however many people they like.\n",
+    "lat": 41.40338,
+    "long": 2.17403
+  },
+  {
+    "id": 9,
+    "comname": "Intel",
+    "ceoname": "Patrick Gelsinger",
+    "image": "assets/ceoImage/img9.jpeg",
+    "logo": "assets/logo/intel.png",
+    "dec": "Intel is best known for developing the microprocessors found in most of the world s personal\ncomputers. The multinational technology company is also the world largest manufacturer by revenue \nof semiconductor chips, a product used in most of the world electronics devices.\n",
+    "lat": 37.3861 ,
+    "long": -121.9581
+  },
+  {
+    "id": 10,
+    "comname": "Canon",
+    "ceoname": "Fujio Mitarai",
+    "image": "assets/ceoImage/img10.jpg",
+    "logo": "assets/logo/canon.png",
+    "dec": "Originally established in 1930, to create high-quality Cameras, Canon has become a leader\nin digital imaging and networking, and a major manufacturer of personal and office printers, copiers,\n controllers and fax machines, as well as medical, semiconductor, and broadcasting equipment.\n",
+    "lat": 38.444931,
+    "long": -105.245720
+  }
+]
