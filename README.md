@@ -1,16 +1,9 @@
-# locator
-
-A new Flutter project.
+# Location App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src = "https://user-images.githubusercontent.com/121785230/219882973-477cf633-13fe-4e24-91d2-9279b0c33d19.png"height = "500px"/>
+<img src = ""height = "500px"/>
+<img src = ""height = "500px"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a Location App for 10 MNC's company's headqurters in details for a Flutter application.
