@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 class DetailPage extends StatefulWidget {
@@ -9,6 +10,8 @@ class DetailPage extends StatefulWidget {
 }
 
 class _DetailPageState extends State<DetailPage> {
+  InAppWebViewController? inAppWebViewController;
+
   @override
   Widget build(BuildContext context) {
     List data = ModalRoute.of(context)!.settings.arguments as List;
@@ -101,34 +104,41 @@ class _DetailPageState extends State<DetailPage> {
                   fontWeight: FontWeight.w400,
                 ),
               ),
-              const SizedBox(height: 30),
-              GestureDetector(
-                onTap: () async {
-                  PermissionStatus status = await Permission.location.request();
-
-                  ScaffoldMessenger.of(context).showSnackBar(SnackBar(
-                    content: Text("$status"),
-                    backgroundColor: Colors.indigo,
-                    behavior: SnackBarBehavior.floating,
+              const SizedBox(height: 10),
+              Row(
+                children: [
+                  const Text(
+                    "Company Location",
+                    style: TextStyle(
+                        fontSize: 18,
+                        color: Colors.black,
+                        fontWeight: FontWeight.bold),
                   ),
-                  );
-
-                  if(status == PermissionStatus.granted){
-                    Navigator.of(context).pushNamed('address',arguments: [
-                      data[6],
-                      data[7],
-                    ]);
-                  }
-                  else{
-                    print("denied..");
-                  }
-                },
-                child: Text(
-                  "http://www.google.com/Adsress/${data[1]}.com",
-                  style: const TextStyle(
-                      color: Colors.blue, decoration: TextDecoration.underline),
-                ),
-              )
+                  IconButton(
+                      onPressed: () async{
+                        PermissionStatus status =
+                            await Permission.location.request();
+                            Navigator.of(context).pushNamed('address',
+                                arguments: [inAppWebViewController, data[8]]);
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(
+                                content: Text("$status"),
+                                backgroundColor: Colors.indigo,
+                                behavior: SnackBarBehavior.floating,
+                              ),
+                            );
+                            if (status == PermissionStatus.granted) {
+                              print("Granted..");
+                            } else {
+                              print("denied..");
+                            }
+                      },
+                      icon: const Icon(
+                        Icons.location_on,
+                        color: Color(0xffC92427),
+                      ))
+                ],
+              ),
             ],
           ),
         ),

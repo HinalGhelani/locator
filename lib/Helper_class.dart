@@ -10,7 +10,6 @@ class APIHelper {
 
   Future<List<Mnc>?> fetchData() async {
 
-    // String baseUrl = "assets/json/mnc_detail.json";
     String api = await rootBundle.loadString("assets/json/mnc_detail.json");
 
     http.Response res = await http.get(Uri.parse(api));

@@ -5,6 +5,7 @@
     "ceoname": "Elon Musk",
     "image": "assets/ceoImage/img_1.png",
     "logo": "assets/logo/tesla.png",
+    "map": "https://www.google.com/maps/place/Austin,+TX,+USA/@30.3074624,-98.0359321,10z/data=!3m1!4b1!4m5!3m4!1s0x8644b599a0cc032f:0x5d9b464bd469d57a!8m2!3d30.267153!4d-97.7430608",
     "dec": "Tesla, Inc. is an American automative and clean energy company based in Austin, Taxas.\nTesla design and manufactures electic vehicles, battery energy storage from home to grid-scale, \nsolar panels and solar roof tiles, and related products and services.\n",
     "lat": 30.222296,
     "long": -97.617134
@@ -15,6 +16,7 @@
     "ceoname": "Guenter Butschek",
     "image": "assets/ceoImage/img2.webp",
     "logo": "assets/logo/tata.png",
+    "map": "https://www.google.com/maps/place/Mumbai,+Maharashtra/@19.0826881,72.600979,10z/data=!3m1!4b1!4m5!3m4!1s0x3be7c6306644edc1:0x5da4ed8f8d648c69!8m2!3d19.0759837!4d72.8776559",
     "dec": "Tata Motors is a leading global automobile manufacturing company. Its diverse portfolio \nincludes an extensive range of cars, sports utility vehicles, trucks, buses and defence vehicles. \nTata Motors is one of India s largest OEMs offering an extensive range of integrated ,smart and e-mobility solutions.\n",
     "lat": 22.7685,
     "long": 86.256
@@ -25,6 +27,7 @@
     "ceoname": "Team Cook",
     "image": "assets/ceoImage/img3.jpeg",
     "logo": "assets/logo/apple.png",
+    "map": "https://www.google.com/maps/place/Apple+Park/@37.334648,-122.0111607,17z/data=!3m1!4b1!4m5!3m4!1s0x808fb596e9e188fd:0x3b0d8391510688f0!8m2!3d37.3346438!4d-122.008972",
     "dec": "Apple is a prominent hardware and software company best known for its series of personal \ncomputers, the iPod and its innovative marketing strategies for its product. Introduced in 1984, the\nMacintosh was the first widely sold personal computer with a graphical user interface(GUI).\n",
     "lat": 37.3318,
     "long": -122.0312
@@ -35,6 +38,7 @@
     "ceoname": "Sundar Pichai",
     "image": "assets/ceoImage/img4.jpg",
     "logo": "assets/logo/Google.png",
+    "map": "https://www.google.com/maps/place/Googleplex/@37.4220698,-122.0862784,17z/data=!3m1!4b1!4m5!3m4!1s0x808fba02425dad8f:0x6c296c66619367e0!8m2!3d37.4220656!4d-122.0840897",
     "dec": "GOOGLE: Global Organization of Oriented Group Language of Earth. The main purpose of the \nSearch is to search for text in publicity accessible documents offered by web servers, as opposed\nto other data, such as images or data contained in databases. it was originally developed in 1997 by\n Larry Page, Sergey Brin, and Scott Hassan.\n",
     "lat": 37.422131,
     "long": -122.084801
@@ -45,6 +49,7 @@
     "ceoname": "Thierry Delaporte",
     "image": "assets/ceoImage/img5.jpg",
     "logo": "assets/logo/Wipro.png",
+    "map": "https://www.google.com/maps/search/wipro+company+headquarters+in+maps/@17.9260044,70.970252,6z/data=!3m1!4b1",
     "dec": "Wipro Limited is a market leading Information Technology consulting and business process \nservice company. Wipro utilizes the power of analytics, robotics, cloud and other emerging technologies\n to help clients spread across six different continents to adapt to the current digital \ntrend and help them thrive to success.\n",
     "lat": 28.46385,
     "long": 77.01783
@@ -55,6 +60,7 @@
     "ceoname": "Salil Parekh",
     "image": "assets/ceoImage/img6.jpg",
     "logo": "assets/logo/Infosys.png",
+    "map": "https://www.google.com/maps/search/infosys+company+headquarters+in+maps/@15.8741754,73.0066169,7z/data=!3m1!4b1",
     "dec": "Infosys provides software development, maintenance and independent validation services \nto companies in finance, insurance, manufacturing and other domains. One of its known products is \nFinacle which is a universal banking solution with modules for retail and corporate banking.\n",
     "lat": 28.46385,
     "long": 77.01783
@@ -65,6 +71,7 @@
     "ceoname": "William Cho",
     "image": "assets/ceoImage/img7.jpeg",
     "logo": "assets/logo/lg.png",
+    "map": "https://www.google.com/maps/search/lg+company+headquarters+in+maps/@21.4800229,72.2051145,10z/data=!3m1!4b1",
     "dec": "LG Electronics was established in 1958 and has since led way into the advanced digital \nera thanks to the technolgical expertise acquired by manufacturing many home appliances such as radios\nand TVs.\n",
     "lat": 18.7539,
     "long": 74.2473
@@ -75,6 +82,7 @@
     "ceoname": "Mark Zuckerberg",
     "image": "assets/ceoImage/img8.jpg",
     "logo": "assets/logo/Facebook.png",
+    "map": "https://www.google.com/maps/search/facebook+company+headquarters+in+maps/@26.3970094,-9.1479086,3z/data=!3m1!4b1",
     "dec": "Facebook is a website which allows users, who sign-up for free profiles, to connect with\nfriend, work colleagues for people they do not know, online. it allows users to share pictures, music, \nvideos, and articles, as well as their own thoughts and opinions with however many people they like.\n",
     "lat": 41.40338,
     "long": 2.17403
@@ -85,8 +93,9 @@
     "ceoname": "Patrick Gelsinger",
     "image": "assets/ceoImage/img9.jpeg",
     "logo": "assets/logo/intel.png",
+    "map": "https://www.google.com/maps/search/intel+company+headquarters+in+maps/@12.9413016,77.6829886,14z/data=!3m1!4b1",
     "dec": "Intel is best known for developing the microprocessors found in most of the world s personal\ncomputers. The multinational technology company is also the world largest manufacturer by revenue \nof semiconductor chips, a product used in most of the world electronics devices.\n",
-    "lat": 37.3861 ,
+    "lat": 37.3861,
     "long": -121.9581
   },
   {
@@ -95,6 +104,7 @@
     "ceoname": "Fujio Mitarai",
     "image": "assets/ceoImage/img10.jpg",
     "logo": "assets/logo/canon.png",
+    "map": "https://www.google.com/maps/place/Canon+India+Private+Limited/@12.9755162,77.6156358,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae11e9412c17f7:0xffc2745d4ee9388d!8m2!3d12.9755162!4d77.6178245",
     "dec": "Originally established in 1930, to create high-quality Cameras, Canon has become a leader\nin digital imaging and networking, and a major manufacturer of personal and office printers, copiers,\n controllers and fax machines, as well as medical, semiconductor, and broadcasting equipment.\n",
     "lat": 38.444931,
     "long": -105.245720
